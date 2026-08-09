@@ -1,0 +1,26 @@
+{
+    "Abel": {
+        "password": 12345,
+        "borrowed": ""
+    },
+    "Kebede": {
+        "password": 12344,
+        "borrowed": ""
+    },
+    "Yeabsira": {
+        "password": 36900,
+        "borrowed": ""
+    },
+    "Nathan": {
+        "password": 12467,
+        "borrowed": ""
+    },
+    "Eyob": {
+        "password": 77777,
+        "borrowed": ""
+    },
+    "Abenezer": {
+        "password": 11111,
+        "borrowed": ""
+    }
+}
