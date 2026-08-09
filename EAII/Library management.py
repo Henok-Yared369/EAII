@@ -108,8 +108,12 @@ def returnbook(name):
 
 
 def check(name):
-
-        print(Users[name]["borrowed"])
+        if User[name]['borrowed'] == ""
+            print("You have not borrowed any books")
+        else:
+            print(Users[name]["borrowed"])
+        
+            
 
 
 def library():
